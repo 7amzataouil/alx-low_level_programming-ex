@@ -1,4 +1,5 @@
 #include "lists.h"
+
 /**
  * sum_listint - calculates the sum of all the data
  * @head: first node
